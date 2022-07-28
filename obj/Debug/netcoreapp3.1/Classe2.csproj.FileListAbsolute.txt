@@ -1,0 +1,13 @@
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\obj\Debug\netcoreapp3.1\Classe2.csprojAssemblyReference.cache
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\obj\Debug\netcoreapp3.1\Classe2.AssemblyInfoInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\obj\Debug\netcoreapp3.1\Classe2.AssemblyInfo.cs
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\obj\Debug\netcoreapp3.1\Classe2.csproj.CoreCompileInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\bin\Debug\netcoreapp3.1\Classe2.exe
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\bin\Debug\netcoreapp3.1\Classe2.deps.json
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\bin\Debug\netcoreapp3.1\Classe2.runtimeconfig.json
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\bin\Debug\netcoreapp3.1\Classe2.runtimeconfig.dev.json
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\bin\Debug\netcoreapp3.1\Classe2.dll
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\bin\Debug\netcoreapp3.1\Classe2.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\obj\Debug\netcoreapp3.1\Classe2.dll
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\obj\Debug\netcoreapp3.1\Classe2.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\Praticando\C#\classe\Classe2\obj\Debug\netcoreapp3.1\Classe2.genruntimeconfig.cache
